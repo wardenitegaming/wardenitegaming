@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and game development
 - 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on css and java script to make a interactive website
-- 📫 How to reach me message me here on github or you can get me on discord on by wardenitegg
+- 📫 How to reach me message me here on github or you can get me on discord on by leulabiy
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i am a very young developer
 
