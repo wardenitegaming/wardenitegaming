@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wardenitegaming
-- 👀 I’m interested in web development and game development
-- 🌱 I’m currently learning front end web development
+- 👀 I’m interested in being a white hat hacker or game development
+- 🌱 I’m currently trying to learn cybersecurity and potentially python or another programming lanugage
 - 💞️ I’m looking to collaborate on css and java script to make a interactive website
 - 📫 How to reach me message me here on github or you can get me on discord on by leulabiy
 - 😄 Pronouns: he/his
